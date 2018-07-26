@@ -1,0 +1,34 @@
+[33mcommit 075fc879b74bf96984540b514c5643b967030fc4[m[33m ([m[1;36mHEAD -> [m[1;32mdesing[m[33m, [m[1;31morigin/desing[m[33m)[m
+Author: osnir <osnirribeiro@hotmail.com>
+Date:   Wed Jul 25 19:42:57 2018 -0300
+
+    inicio de design
+
+:000000 100644 0000000... d814780... A	estilo.css
+:100644 100644 0d907a1... 502e75a... M	index.html
+:000000 100644 0000000... e69de29... A	teste/ola 2.txt
+:000000 100644 0000000... e69de29... A	teste/ola.txt
+
+[33mcommit eabd7b98ac2183cdedc5fc14fae90a1c02840a2d[m
+Author: osnir <osnirribeiro@hotmail.com>
+Date:   Wed Jul 25 11:42:56 2018 -0300
+
+    tag h3
+
+:100644 100644 d307acf... 0d907a1... M	index.html
+
+[33mcommit d933390df60d966bd5d67492b17afffaa35cec32[m
+Author: osnir <osnirribeiro@hotmail.com>
+Date:   Wed Jul 25 11:26:39 2018 -0300
+
+    titulo da pagina
+
+:100644 100644 aa7b9c9... d307acf... M	index.html
+
+[33mcommit 57c886ebff6bc4767942ae2c0d636e399992798c[m
+Author: osnir <osnirribeiro@hotmail.com>
+Date:   Wed Jul 25 11:20:56 2018 -0300
+
+    Criando projeto
+
+:000000 100644 0000000... aa7b9c9... A	index.html
